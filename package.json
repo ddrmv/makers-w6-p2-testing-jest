@@ -1,0 +1,19 @@
+{
+  "name": "makers-w6-p2-testing-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "just": "^0.1.8"
+  },
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
